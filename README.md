@@ -1,5 +1,5 @@
 
-![preview](./preview.png)
+![preview](./img/preview.png)
 
 ___
 
