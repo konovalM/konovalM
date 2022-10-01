@@ -14,10 +14,9 @@ ___
 
 ## 👨‍💻 About me
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-
+[telegram](https://t.me/ii4elka)
+[vk](https://vk.com/ii4elkaa)
 [resume](https://drive.google.com/drive/folders/1uEhyLm4IL6n2mYMZPU_3TaaPZH2s9t-a)
-# Dillinger
 
 
 
