@@ -6,7 +6,7 @@ ___
 - 💼 I work at frontend.
 - 🎓 I am a student at ITMO University.
 - 👨‍💻 I started learning web programming in 2021.
-- 🔥 I have a small goal to win the hackathon.
+- 🔥 I have a small goal to win the hackathon. (p.s. Achieved✅)
 - 🖤 My personal hobbies include webdev, football and taekwondo.
 - ⚽ I am a fan of FC Barcelona.
 - ✨ I constantly seek for inspiration.
